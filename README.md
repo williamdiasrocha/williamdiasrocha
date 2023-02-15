@@ -1,6 +1,7 @@
 WillRocha/README.md <br>
 
-Hi there 👋 🛸🌎Welcome!🌎🛸
+Hi there 👋 <br>
+🛸🌎Welcome!🌎🛸<br>
 
 🔭 I’m currently working from home... <br>
 🧩 Graphic Designer, Creative and Organized... <br>
@@ -12,7 +13,7 @@ Hi there 👋 🛸🌎Welcome!🌎🛸
 
 🛑::: IMPORTANT :::🛑
 
-🚀 OPEN TO WORK... 
+🚀 OPEN TO WORK... <br>
 📖 OPEN TO LEARN...<br>
 
 <div>
