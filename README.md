@@ -22,3 +22,5 @@ Hi there 👋 <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamdiasrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+## Ferramentas e Tecnologias:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
