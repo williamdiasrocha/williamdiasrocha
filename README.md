@@ -18,7 +18,7 @@ Hi there 👋 <br>
 </div>
 
 ## Ferramentas e Tecnologias:
-<div justify-content="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" />
   </svg></svg> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" /> 
