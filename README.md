@@ -1,3 +1,5 @@
+<div align="center">
+
 WillRocha/README.md <br>
 
 Hi there 👋 <br>
@@ -29,4 +31,5 @@ Hi there 👋 <br>
 <a href="https://www.linkedin.com/in/williamdiasrocha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <a href="https://williamdiasrocha.github.io/M2S02_Ex3_CurriculoDev/" target="_grey"><img src="https://img.shields.io/badge/-Currículum Vitae-%230077B5?style=for-the-badge&logo=curriculum&logoColor=white" target="_grey"></a>   
+</div>
 </div>
