@@ -5,7 +5,7 @@
  <h1>William Rocha </h1> <br>
 </div>
 
-<img src=”https://cdni.iconscout.com/illustration/premium/thumb/coder-3462295-2895977.png” width="50px">
+<img src=”https://cdni.iconscout.com/illustration/premium/thumb/coder-3462295-2895977.png” width="50">
  
 </div>
 
