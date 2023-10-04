@@ -1,5 +1,5 @@
 <div align="left">
-<div width=100px height=50px background-color=green color=white >
+<div width=100px height=50px background-color="green" color="white" >
 <h4>Hi there, I'm</h4> 👋
 <h1>William Rocha </h1> <br>
 </div>
