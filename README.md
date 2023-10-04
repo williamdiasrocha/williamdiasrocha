@@ -2,7 +2,7 @@
 <div >
 <div display="flex" align-items="center">
  <h4>Hi there, I'm</h4> 👋
- <h1>William Rocha </h1> <br>
+ <h1 font-size=500 >William Rocha </h1> <br>
 </div>
 
 <img src=”https://cdni.iconscout.com/illustration/premium/thumb/coder-3462295-2895977.png” width="50">
