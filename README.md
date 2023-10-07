@@ -1,9 +1,9 @@
-<div align="left">
+<div>
 <div >
-<div display="flex" align-items="center">
+<div>
  ```
- <h4>Hi there, I'm</h4> 👋
- <h1 font-size=500 >William Rocha </h1> <br>
+ <h4> Hi there, I'm </h4> 👋
+ <h1> William Rocha </h1> <br>
  ```
 </div>
 
