@@ -1,11 +1,7 @@
+
 <div>
-<div >
-<div>
- ```
- <h4> Hi there, I'm </h4> 👋
- <h1> William Rocha </h1> <br>
- ```
-</div>
+<h4> Hi there, I'm </h4> 👋
+<h1> William Rocha </h1> <br>
 
 <img src=”https://cdni.iconscout.com/illustration/premium/thumb/coder-3462295-2895977.png” width="50">
  
